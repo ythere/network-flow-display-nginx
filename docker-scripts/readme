@@ -1,0 +1,1 @@
+because the openvpn server is in a docker container,so we must transform the data of tap0 to your nginx server
