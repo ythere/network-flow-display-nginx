@@ -32,6 +32,5 @@ char* json_analysis(char* json, char** json_result)
 	
 	result = speed_store(Time, Rxtotal, Txtotal, Counts);	
 	*json_result = result;
-	return *json_result;
-	
+	return *json_result;	
 }
